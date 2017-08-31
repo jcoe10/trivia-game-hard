@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/RuGOdj7.jpg");
+    color: #C20202;
+       
+}
+
+button {
+    width: 726px;
+    height: 50px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    border: 3px solid #C20202 ;   
+    outline: none;
+    color: #C20202;
+    margin: 0 auto;  
+}
+
+.title {
+    text-align: center;
+    width: 726px;
+    height: 73px;
+    background-color: black;
+    color: #C20202;
+    margin: 0 auto;
+}
+h2 {
+    text-align: center;
+    width: 726px;
+    height: 78px;
+    background-color: black;
+    color: #C20101;
+    margin: 0 auto;
+}
+.start {
+    width: 200px;
+    height: 100px;
+    z-index: 0;
+}
